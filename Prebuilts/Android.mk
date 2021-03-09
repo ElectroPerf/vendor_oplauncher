@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := OPLauncher
-LOCAL_SRC_FILES := priv-app/$(LOCAL_MODULE).apk
+LOCAL_SRC_FILES := priv-app/OPLauncher/$(LOCAL_MODULE).apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_CERTIFICATE := PRESIGNED
