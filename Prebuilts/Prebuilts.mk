@@ -21,4 +21,9 @@ PRODUCT_PACKAGES += \
     OPLauncher \
     OPIconpackOxygen \
     OPIconpackRound \
+    OPIconPackCyberPunk \
+    OPIconPackHydrogen \
+    OPIconPackMcLaren \
+    OPIconPackStock \
+    OPIconpackOnePlus \
     OPWidget
