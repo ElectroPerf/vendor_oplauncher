@@ -1,4 +1,4 @@
-# Copyright (C) 2020 ElectroPerf
+# Copyright (C) 2020 ElectroPerf & KangOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -17,4 +17,4 @@ LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
 # Include prebuilts packages
-include vendor/extras/Prebuilts/Prebuilts.mk
+include vendor/oplauncher/Prebuilts/Prebuilts.mk

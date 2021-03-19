@@ -1,4 +1,4 @@
-# Copyright (C) 2020 ElectroPerf
+# Copyright (C) 2020 ElectroPerf & KangOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Copy permission files
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/extras/Prebuilts/etc,$(TARGET_COPY_OUT_SYSTEM_EXT)/etc)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/oplauncher/Prebuilts/etc,$(TARGET_COPY_OUT_SYSTEM_EXT)/etc)
 
 # OOS 11 Launcher
 PRODUCT_PACKAGES += \
