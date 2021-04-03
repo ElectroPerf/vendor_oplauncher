@@ -26,4 +26,5 @@ PRODUCT_PACKAGES += \
     OPIconPackMcLaren \
     OPIconPackStock \
     OPIconpackOnePlus \
+    OPIconPackOOS \
     OPWidget
